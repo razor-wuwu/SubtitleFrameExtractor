@@ -1,0 +1,1 @@
+python "/home/rub/hd_data/project/subtitles/download/标题：吴恩达 - AI领域的机遇 - 斯坦福在线 2023 [BV1fw411m7Nw].f6.mp4" 710 852 ./outputs
