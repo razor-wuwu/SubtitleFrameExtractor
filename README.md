@@ -1,4 +1,7 @@
 # Introduction
+
+[中文版本](./README_CN.md)
+
 This project consists of a Python script that extracts frames from a video file and creates a subtitle collage. It uses OpenCV and PIL to handle video and image processing. The script captures frames at specified time points and extracts subtitle regions from those frames. These frames are then combined vertically to create a final image with the subtitle regions labeled with the respective time points.
 
 Project Preview
